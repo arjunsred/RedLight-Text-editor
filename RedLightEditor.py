@@ -105,7 +105,7 @@ def changefont():
 				width = 80, 
 				font = font2)  
 
-root.iconbitmap('D:\\Python\\Projects\\PythonTextEditor\\red_light7.ico')
+root.iconbitmap('locationofimagefile/red_light_icon.ico')
 root.title('RedLight Editor')
 frame = Frame(root)
 frame2 = Frame(root)

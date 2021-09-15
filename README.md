@@ -10,7 +10,11 @@ It has quite a lot of additional features such as Encode, Decode, Coloured texts
 Additional features such as Encode and Decode are useful in encrypting private files. It also has an option to add an image of your
 liking in the text editing area. I plan to add more features.
 
-You can reach me at arjunsred@gmail.com
+Please visit my website [https://arjunsden.wordpress.com/] and youtube channel[https://www.youtube.com/channel/UCmtVqNG1rW7fd0N89GbJeww]
+to see more of my interesting topics and creations.
+
+Email address:
+arjunsred@gmail.com
 
 
 
